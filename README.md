@@ -42,12 +42,16 @@ The goal of this project is to build a model that can accurately detect spam mes
 ## 📸 Results
 
 ### 🔹 Confusion Matrix
-(Add your screenshot here)
 
-### 🔹 Data Distribution (Before & After Balancing)
-(Add screenshots here)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
+
+### 🔹 Data Distribution (Before & After Balancing)
+
+![Before Balancing](images/before_balance.png)
+
+![After Balancing](images/after_balance.png)
 
 ## 🧪 Example Prediction
 
